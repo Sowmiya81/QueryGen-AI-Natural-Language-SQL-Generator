@@ -24,7 +24,9 @@ GOOGLE_API_KEY="your_api_key_here"
 
 # Usage
 To start the application, run the following command:
+
 streamlit run main.py
+
 Once the app is running, open your browser to interact with the system, input natural language questions, and get real-time SQL query results.
 
 # Project Structure
